@@ -10,7 +10,7 @@ The dataset was downloaded from [Kaggle - Bondora P2P Loans](https://www.kaggle.
 ## Project Structure
 
 - `src/`: Source code for data transformation and modeling
-- Notebooks and images: Analysis steps and results
+- `dataset_creation.ipynb` and images: Analysis steps and results
 
 ## Note
 
